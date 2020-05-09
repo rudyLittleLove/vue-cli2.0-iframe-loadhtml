@@ -1,6 +1,6 @@
 # vue-cli2.0-iframe-loadhtml
 
-> A Vue.js project
+> 一个vue-cli2.0 构建的项目使用iframe 引用本地静态html文件的demo
 
 ## Build Setup
 
